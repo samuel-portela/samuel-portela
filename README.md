@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Cursando Técnico Desenvolvimento de Sistemas - SENAI <br>
-  👨‍💻 Desenvolvendo projetos em Pyhton | Portugol | PHP
+  👨‍💻 Desenvolvendo projetos em Python | Portugol | PHP
 </p>
 
 ---
